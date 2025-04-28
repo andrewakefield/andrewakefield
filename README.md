@@ -2,8 +2,8 @@
 
 <h2>🧑‍💻 Personal Projects:</h2>
 
-- <b>* Bit Breadboard Computer: </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>8 Bit Breadboard Computer: </b>
+   [8-BitComputer](https://github.com/andrewakefield/8-BitComputer)
    
 <h2>🤝 Connect with me:</h2>
 
