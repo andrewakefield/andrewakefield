@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Andrew! </h1>
 
-<!--
-**andrewakefield/andrewakefield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🧑‍💻 Personal Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>8 Bit Breadboard Computer: </b>
+   [8-BitComputer](https://github.com/andrewakefield/8-BitComputer)
+   
+<h2>🤝 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="AndrewWakefield | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/andrewakefield
